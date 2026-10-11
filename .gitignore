@@ -1,0 +1,13 @@
+
+frontend/oracleJdk-27/
+
+node_modules/
+frontend/node_modules/
+frontend/oracleJdk-27/
+
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+frontend/.vite/
+frontend/dist/
